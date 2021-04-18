@@ -1,4 +1,4 @@
 # PrototipoExploration
 Prueba de repositorio
 
-Grupo de Emiliana, Darina y Andrés.
+Grupo de Emiliana, Darina, Andrés y Javier.
